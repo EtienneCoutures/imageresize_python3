@@ -1,0 +1,2 @@
+curl -X POST -H 'Content-Type:application/binary' --data-binary '@/home/itiz/project_4/img.gif' http://0.0.0.0:8888/resize?scale=3
+
